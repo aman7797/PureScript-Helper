@@ -15,5 +15,7 @@ For Warning Remover
 
 
 To use Compiler
+
   run this command in terminal
+ 
   ./purs compile 'bower_components/purescript-*/src/**/*.purs' 'src/**/*.purs' --watchSrc 
