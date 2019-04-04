@@ -9,6 +9,7 @@ For Warning Remover
   Add script as
       
       "janitor": "node purescript-janitor.js",
+      
       "build": "pulp build"
 3. Run in terminal - npm run janitor
 
