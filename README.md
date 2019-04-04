@@ -13,3 +13,7 @@ For Warning Remover
       "build": "pulp build"
 3. Run in terminal - npm run janitor
 
+
+To use Compiler
+  run this command in terminal
+  ./purs compile 'bower_components/purescript-*/src/**/*.purs' 'src/**/*.purs' --watchSrc 
