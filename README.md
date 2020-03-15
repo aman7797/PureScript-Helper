@@ -11,11 +11,13 @@ For Warning Remover
       "janitor": "node purescript-janitor.js",
       
       "build": "pulp build"
-3. Run in terminal - npm run janitor
+3. Run in terminal - 
+    
+        npm run janitor
 
 
 To use Compiler
 
  1. run this command in terminal
  
-    ./purs compile 'bower_components/purescript-*/src/**/*.purs' 'src/**/*.purs' --watchSrc 
+        ./purs compile 'bower_components/purescript-*/src/**/*.purs' 'src/**/*.purs' --watchSrc 
